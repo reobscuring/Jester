@@ -1,0 +1,6 @@
+# Generated build and distribution artifacts
+/jester
+/jester.zip
+/.package/
+/build/
+*.o

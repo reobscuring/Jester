@@ -1,0 +1,22 @@
+## Assignment, values, callable functions, blocks, conditions, and imports.
+sys.log("hello world") == greeting
+greeting()
+sys.add("hello", " world") == message
+sys.log(message)
+[
+  a == "5"
+  b == "1"
+  sys.log("block ran")
+] == routine
+sys.log(routine)
+routine()
+a == "help"
+c == "help"
+if
+a = c
+then
+sys.log("wow")
+else
+sys.log("okay bro")
+use sum from sumof10
+sys.log(sumof10.sum(addeven="1,2,3,4,5,6,7,8,9,10"))
