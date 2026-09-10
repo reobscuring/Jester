@@ -1,0 +1,2 @@
+## Modules are evaluated when imported; named invocation arguments remain free-form.
+sum == "30"
